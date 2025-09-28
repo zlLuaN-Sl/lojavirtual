@@ -1,3 +1,3 @@
 # lojavirtual
 
-<!-- NAda alterado -->
+Texto alterado no repositório local.
