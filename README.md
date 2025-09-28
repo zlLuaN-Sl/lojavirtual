@@ -1,1 +1,3 @@
 # lojavirtual
+
+<!-- NAda alterado -->
